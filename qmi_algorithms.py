@@ -2,8 +2,6 @@ mbd = 40
 mbd2 = 40
 printinfo = False
 
-pip install matplotlib imageio
-
 import numpy as np
 import copy
 import scipy.linalg
